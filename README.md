@@ -2,8 +2,6 @@
 
 # 👋 Hola, soy Adrián Barriuso
 
-**Ciberseguridad · Desarrollo · DevOps**
-
 </div>
 
 ---

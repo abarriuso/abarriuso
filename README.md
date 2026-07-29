@@ -30,11 +30,3 @@
 | [📚 palafoxiana-redesign](https://github.com/abarriuso/palafoxiana-redesign) | Rediseño de la experiencia web de la Biblioteca Palafoxiana — HTML semántico, ARIA, rendimiento obsesivo. |
 
 ---
-
-### 📊 Stats
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abarriuso&show_icons=true&theme=dark&hide_border=true)
-
-</div>

@@ -4,6 +4,8 @@
 
 Desarrollo web y algún proyecto de machine learning. Aprendiendo y practicando con proyectos propios.
 
+[adrianbarriusopizarro@gmail.com](mailto:adrianbarriusopizarro@gmail.com)
+
 </div>
 
 ---
@@ -22,12 +24,15 @@ Desarrollo web y algún proyecto de machine learning. Aprendiendo y practicando 
 
 ### 📌 Proyectos
 
-Proyectos personales y de portafolio (educativos, salvo indicación):
+Proyectos personales y de portafolio (educativos, salvo indicación). Los tres se pueden probar en el navegador:
 
-| Proyecto | Descripción |
-|----------|-------------|
-| [melanoma-detection-vgg16](https://github.com/abarriuso/melanoma-detection-vgg16) | Clasificación binaria de imágenes dermatoscópicas con VGG16 (transfer learning) y Grad-CAM. Demo que ejecuta la inferencia en el navegador con TensorFlow.js. No es una herramienta médica. |
-| [Analemas](https://github.com/abarriuso/Analemas) | Visualización interactiva del analema solar y de analemas planetarios en Canvas 2D, en JavaScript sin dependencias. |
-| [palafoxiana-redesign](https://github.com/abarriuso/palafoxiana-redesign) | Rediseño conceptual de la web de la Biblioteca Palafoxiana, con HTML semántico y atención a accesibilidad y rendimiento. Proyecto de portafolio, sin afiliación con la institución. |
+| Proyecto | Descripción | |
+|----------|-------------|---|
+| [melanoma-detection-vgg16](https://github.com/abarriuso/melanoma-detection-vgg16) | Clasificación binaria de imágenes dermatoscópicas con VGG16 (transfer learning) y Grad-CAM. La inferencia se ejecuta en el navegador con TensorFlow.js. No es una herramienta médica. | **[Probar →](https://abarriuso.github.io/melanoma-detection-vgg16/)** |
+| [Analemas](https://github.com/abarriuso/Analemas) | Visualización interactiva del analema solar y de analemas planetarios en Canvas 2D, en JavaScript sin dependencias. | **[Probar →](https://abarriuso.github.io/Analemas/)** |
+| [palafoxiana-redesign](https://github.com/abarriuso/palafoxiana-redesign) | Rediseño conceptual de la web de la Biblioteca Palafoxiana, con HTML semántico y atención a accesibilidad y rendimiento. Proyecto de portafolio, sin afiliación con la institución. | **[Probar →](https://abarriuso.github.io/palafoxiana-redesign/)** |
+
+<!-- Cuando tengas el perfil de LinkedIn listo, añádelo bajo el email de arriba:
+     · [LinkedIn](https://www.linkedin.com/in/tu-usuario/) -->
 
 ---

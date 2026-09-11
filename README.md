@@ -7,7 +7,7 @@
 Construyo aplicaciones web y las llevo a producción cuidando el rendimiento,
 la accesibilidad y el SEO. Despliego y mantengo mi propia infraestructura.
 
-[adrianbarriusopizarro@gmail.com](mailto:adrianbarriusopizarro@gmail.com) · [LinkedIn](https://www.linkedin.com/in/adrian-barriuso/)
+[adrianbarriusopizarro@gmail.com](mailto:adrianbarriusopizarro@gmail.com) · [LinkedIn](https://www.linkedin.com/in/adri%C3%A1n-barriuso/)
 
 </div>
 

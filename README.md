@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hola, soy Adrián Barriuso
+#  Hola, soy Adrián Barriuso
 
-**Desarrollador web full-stack** · Técnico Superior en DAM
+**Desarrollador web** · Técnico Superior en DAM
 
 Construyo aplicaciones web y las llevo a producción cuidando el rendimiento,
 la accesibilidad y el SEO. Despliego y mantengo mi propia infraestructura.
@@ -11,24 +11,6 @@ la accesibilidad y el SEO. Despliego y mantengo mi propia infraestructura.
 
 </div>
 
----
-
-### 🛠️ Tecnologías con las que trabajo
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-
----
-
 ### 🚀 En producción
 
 **[lasbrasasdelosar.com](https://lasbrasasdelosar.com)** — web de restaurante desarrollada
@@ -36,7 +18,6 @@ y desplegada por mí de extremo a extremo: front y back sin plantillas, multiidi
 autoalojada en infraestructura propia (Proxmox + Ubuntu LXC + Nginx + Cloudflare Tunnel) y
 con despliegue automático mediante CI/CD.
 
-> PageSpeed Insights (escritorio): **99** rendimiento · **96** accesibilidad · **100** SEO · **100** buenas prácticas
 
 ---
 

@@ -11,7 +11,7 @@ la accesibilidad y el SEO. Despliego y mantengo mi propia infraestructura.
 
 </div>
 
-### 🚀 En producción
+### En producción
 
 **[lasbrasasdelosar.com](https://lasbrasasdelosar.com)** — web de restaurante desarrollada
 y desplegada por mí de extremo a extremo: front y back sin plantillas, multiidioma (ES/EN/FR),
@@ -21,9 +21,9 @@ con despliegue automático mediante CI/CD.
 
 ---
 
-### 📌 Proyectos
+### Proyectos
 
-Proyectos personales y de portafolio (educativos, salvo indicación).
+Proyectos personales.
 
 | Proyecto | Descripción | |
 |----------|-------------|---|

@@ -1,35 +1,27 @@
 <div align="center">
 
-#  Hola, soy Adrián Barriuso
+# Hi, I'm Adrián Barriuso
 
-**Desarrollador web** · Técnico Superior en DAM
+**Web developer** · Higher Technician in Multiplatform Application Development (DAM)
 
-Construyo aplicaciones web y las llevo a producción cuidando el rendimiento,
-la accesibilidad y el SEO. Despliego y mantengo mi propia infraestructura.
+I build web applications and take them to production, with care for
+performance, accessibility and SEO. I deploy and run my own infrastructure.
 
 [adrianbarriusopizarro@gmail.com](mailto:adrianbarriusopizarro@gmail.com) · [LinkedIn](https://www.linkedin.com/in/adri%C3%A1n-barriuso/)
 
+**English** · [Español](README.es.md)
+
 </div>
 
-### En producción
+### Projects
 
-**[lasbrasasdelosar.com](https://lasbrasasdelosar.com)** — web de restaurante desarrollada
-y desplegada por mí de extremo a extremo: front y back sin plantillas, multiidioma (ES/EN/FR),
-autoalojada en infraestructura propia (Proxmox + Ubuntu LXC + Nginx + Cloudflare Tunnel) y
-con despliegue automático mediante CI/CD.
-
-
----
-
-### Proyectos
-
-Proyectos personales.
-
-| Proyecto | Descripción | |
-|----------|-------------|---|
-| [netscan](https://github.com/abarriuso/netscan) | Escáner de red e inventario vivo para homelabs. Unifica varias herramientas (nmap, RustScan, nuclei, scapy, mDNS) en un solo panel, con alertas de dispositivo nuevo o caído e integraciones de Proxmox VE, TrueNAS, AdGuard Home y Pi-hole. Instalación en un comando. | |
-| [melanoma-detection-vgg16](https://github.com/abarriuso/melanoma-detection) | Clasificación binaria de imágenes dermatoscópicas con transfer learning (VGG16, ResNet50V2, EfficientNetV2S) y Grad-CAM. La inferencia se ejecuta en el navegador con TensorFlow.js. No es una herramienta médica. | **[Probar →](https://abarriuso.github.io/melanoma-detection-vgg16/)** |
-| [palafoxiana-redesign](https://github.com/abarriuso/palafoxiana-redesign) | Rediseño conceptual de la web de la Biblioteca Palafoxiana: HTML semántico, accesibilidad (ARIA), i18n ES/EN e imágenes responsive AVIF/WebP. Proyecto de portafolio, sin afiliación con la institución. | **[Probar →](https://abarriuso.github.io/palafoxiana-redesign/)** |
-| [Analemas](https://github.com/abarriuso/Analemas) | Simulación interactiva del analema solar, analemas planetarios y el pentagrama de Venus en Canvas 2D, en JavaScript sin dependencias ni build. | **[Probar →](https://abarriuso.github.io/Analemas/)** |
+| Project | Description | |
+|---------|-------------|---|
+| [Las Brasas de Losar](https://lasbrasasdelosar.com) | **In production.** Restaurant website I built and deployed end to end: front and back end without templates, in three languages (ES/EN/FR), self-hosted on my own infrastructure (Proxmox + Ubuntu LXC + Nginx + Cloudflare Tunnel) with automatic CI/CD deployment. | **[Visit →](https://lasbrasasdelosar.com)** |
+| [NASMirror](https://github.com/abarriuso/nasmirror) | Windows desktop app (Tauri 2 + React + Rust) that mirrors folders to a NAS or to drives with Robocopy, with optional encrypted, versioned snapshots through restic, Wake-on-LAN, run history and an unattended mode for Task Scheduler. | **[Download →](https://github.com/abarriuso/nasmirror/releases/latest)** |
+| [netscan](https://github.com/abarriuso/netscan) | Network scanner and live inventory for homelabs. It brings several tools (nmap, RustScan, nuclei, scapy, mDNS) together in one dashboard, with new/down device alerts and Proxmox VE, TrueNAS, AdGuard Home and Pi-hole integrations. One-command install. | |
+| [melanoma-detection](https://github.com/abarriuso/melanoma-detection) | Binary classification of dermoscopic images with transfer learning (VGG16, ResNet50V2, EfficientNetV2S) and Grad-CAM. Inference runs in the browser with TensorFlow.js. Not a medical tool. | **[Try it →](https://abarriuso.github.io/melanoma-detection/)** |
+| [palafoxiana-redesign](https://github.com/abarriuso/palafoxiana-redesign) | Concept redesign of the Biblioteca Palafoxiana website: semantic HTML, accessibility (ARIA), ES/EN i18n and responsive AVIF/WebP images. Portfolio project, not affiliated with the institution. | **[Try it →](https://abarriuso.github.io/palafoxiana-redesign/)** |
+| [Analemas](https://github.com/abarriuso/Analemas) | Interactive simulation of the solar analemma, planetary analemmas and the pentagram of Venus in Canvas 2D, in dependency-free JavaScript with no build step. Idea and first prototype by Sandra Fernández Domínguez. | **[Try it →](https://abarriuso.github.io/Analemas/)** |
 
 ---

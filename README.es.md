@@ -36,4 +36,4 @@ la accesibilidad y el SEO. Despliego y mantengo mi propia infraestructura.
 
 ---
 
-Uso asistentes de IA (Claude Code) durante el desarrollo. El diseño, las decisiones técnicas, la validación y la revisión del código son míos.
+Uso asistentes de IA durante el desarrollo. El diseño, las decisiones técnicas, la validación y la revisión del código son míos.

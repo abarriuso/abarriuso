@@ -36,4 +36,4 @@ performance, accessibility and SEO. I deploy and run my own infrastructure.
 
 ---
 
-I use AI assistants (Claude Code) during development. The design, the technical decisions, the validation and the code review are mine.
+I use AI assistants during development. The design, the technical decisions, the validation and the code review are mine.
